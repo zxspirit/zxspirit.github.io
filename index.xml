@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>云原生探索版</title>
+    <link>https://zxspirit.github.io/</link>
+    <description>Recent content on 云原生探索版</description>
+    <image>
+      <title>云原生探索版</title>
+      <url>https://zxspirit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zxspirit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Nov 2024 23:33:46 +0800</lastBuildDate>
+    <atom:link href="https://zxspirit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>https://zxspirit.github.io/b/</link>
+      <pubDate>Sun, 17 Nov 2024 23:33:46 +0800</pubDate>
+      <guid>https://zxspirit.github.io/b/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>A</title>
+      <link>https://zxspirit.github.io/a/</link>
+      <pubDate>Sun, 17 Nov 2024 23:33:02 +0800</pubDate>
+      <guid>https://zxspirit.github.io/a/</guid>
+      <description>&lt;p&gt;aaaa&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
